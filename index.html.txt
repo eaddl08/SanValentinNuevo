@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>San Valentín</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-size: 24px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+        a {
+            color: white;
+            font-size: 20px;
+            text-decoration: none;
+            border: 2px solid white;
+            padding: 10px 20px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        a:hover {
+            background-color: white;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <p>¿Puedo ser tu San Valentín?</p>
+    <a href="valentin.html">Haz clic aquí</a>
+</body>
+</html>
